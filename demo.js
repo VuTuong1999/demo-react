@@ -6,7 +6,7 @@ class Aaasds extends Component {
     }
     state = {  }
     render() { 
-        return (  );
+        return ( {} );
     }
 }
  
